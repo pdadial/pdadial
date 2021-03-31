@@ -1,4 +1,4 @@
-![alt text](https://github.com/pdadial/pdadial/blob/main/banner.png "Banner")
+![alt text](https://github.com/pdadial/pdadial/blob/main/Banner.png "Banner")
 
 ### Welcome to my GitHub.
 
