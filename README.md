@@ -5,6 +5,7 @@
 About me:
 * I'm from India
 * Currently living in Glasgow, UK.
+
 * I like to write in Python.
 * Learning: Data Science.
 * How to reach me: [prateekdadial@gmail.com](mailto:prateekdadial@gmail.com)
