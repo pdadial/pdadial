@@ -17,3 +17,4 @@ I've worked with:
 <img src="https://github.com/pdadial/pdadial/blob/main/icons/git-icon.svg" alt="Git" title="Git" width="20">
 <img src="https://github.com/pdadial/pdadial/blob/main/icons/github-icon.svg" alt="Github" title="Github" width="20">
 <img src="https://github.com/pdadial/pdadial/blob/main/icons/markdown.svg" alt="Markdown" title="Markdown" width="20">
+<img src="https://github.com/pdadial/pdadial/blob/main/icons/jupyter-original.svg" alt="Markdown" title="Jupyter" width="20">
